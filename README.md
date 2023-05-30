@@ -1,5 +1,5 @@
 # About the site
-[About the site linl]([https://example.com/videos/video.mp4](https://portfolio-testing-e7cfe.web.app/about))
+[About the site link]([https://example.com/videos/video.mp4](https://portfolio-testing-e7cfe.web.app/about))
 
 Our website for taking tests in various programming languages, This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4, offers a convenient and intuitive user experience. It provides a wide range of features for test management and ensures convenience for both administrators and users.
 
